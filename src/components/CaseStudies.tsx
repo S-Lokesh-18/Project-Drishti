@@ -7,7 +7,7 @@ const CaseStudies = () => {
     {
       title: "Kumbh Mela 2021",
       location: "Haridwar, India",
-      date: "April 2021",
+      date: "March-April 2021",
       attendees: "50+ Million",
       incident: "COVID-19 crowd management challenges during religious gathering",
       impact: "Super-spreader event concerns",
@@ -17,7 +17,7 @@ const CaseStudies = () => {
     {
       title: "RCB vs KKR Match",
       location: "M. Chinnaswamy Stadium",
-      date: "May 2023",
+      date: "April 26, 2023",
       attendees: "40,000",
       incident: "Stampede-like situation during match exit",
       impact: "Multiple injuries, crowd control issues",
@@ -27,7 +27,7 @@ const CaseStudies = () => {
     {
       title: "Pushpa 2 Premiere",
       location: "Sandhya Theatre, Hyderabad",
-      date: "December 2024",
+      date: "December 4, 2024",
       attendees: "5,000+",
       incident: "Stampede during star appearance, woman fatally injured",
       impact: "1 death, several injuries, theatre sealed",
@@ -37,7 +37,7 @@ const CaseStudies = () => {
     {
       title: "Travis Scott Astroworld",
       location: "Houston, Texas",
-      date: "November 2021",
+      date: "November 5, 2021",
       attendees: "50,000",
       incident: "Crowd surge during concert performance",
       impact: "10 deaths, 300+ injuries",
@@ -47,7 +47,7 @@ const CaseStudies = () => {
     {
       title: "Itaewon Halloween",
       location: "Seoul, South Korea",
-      date: "October 2022",
+      date: "October 29, 2022",
       attendees: "100,000+",
       incident: "Crowd crush in narrow alley during Halloween celebrations",
       impact: "159 deaths, 196 injuries",
@@ -57,7 +57,7 @@ const CaseStudies = () => {
     {
       title: "Love Parade 2010",
       location: "Duisburg, Germany",
-      date: "July 2010",
+      date: "July 24, 2010",
       attendees: "1.4 Million",
       incident: "Tunnel bottleneck during electronic music festival",
       impact: "21 deaths, 652 injuries",
@@ -67,7 +67,7 @@ const CaseStudies = () => {
     {
       title: "Hillsborough Disaster",
       location: "Sheffield, England",
-      date: "April 1989",
+      date: "April 15, 1989",
       attendees: "54,000",
       incident: "Overcrowding in football stadium stands",
       impact: "97 deaths, 766 injuries",
@@ -77,7 +77,7 @@ const CaseStudies = () => {
     {
       title: "Station Nightclub Fire",
       location: "Rhode Island, USA",
-      date: "February 2003",
+      date: "February 20, 2003",
       attendees: "462",
       incident: "Pyrotechnics ignited soundproofing foam",
       impact: "100 deaths, 230 injuries",
