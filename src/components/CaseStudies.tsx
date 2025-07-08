@@ -1,13 +1,12 @@
-
 import React from 'react';
 import { Calendar, MapPin, Users, AlertTriangle, TrendingDown } from 'lucide-react';
 
 const CaseStudies = () => {
   const incidents = [
     {
-      title: "Kumbh Mela 2021",
-      location: "Haridwar, India",
-      date: "March-April 2021",
+      title: "Kumbh Mela 2025",
+      location: "Haridwar, India", 
+      date: "January 29, 2025",
       attendees: "50+ Million",
       incident: "COVID-19 crowd management challenges during religious gathering",
       impact: "Super-spreader event concerns",
@@ -17,7 +16,7 @@ const CaseStudies = () => {
     {
       title: "RCB vs KKR Match",
       location: "M. Chinnaswamy Stadium",
-      date: "April 26, 2023",
+      date: "June 4, 2025",
       attendees: "40,000",
       incident: "Stampede-like situation during match exit",
       impact: "Multiple injuries, crowd control issues",
